@@ -27,21 +27,7 @@ This repository contains a Python implementation of the SHA-256 cryptographic ha
 
     There are no external dependencies required for this implementation.
 
-### Usage
 
-1. **Import the module**
-
-    ```python
-    from sha256 import sha256
-    ```
-
-2. **Compute the SHA-256 hash**
-
-    ```python
-    message = "Hello, World!"
-    hash_value = sha256(message.encode())
-    print("SHA-256 Hash:", hash_value)
-    ```
 
 ### Example
 
